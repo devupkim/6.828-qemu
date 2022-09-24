@@ -1,3 +1,4 @@
+#include <sys/sysmacros.h>
 /*
  * QEMU Guest Agent POSIX-specific command implementations
  *
